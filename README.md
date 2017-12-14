@@ -3,6 +3,9 @@ A simple python script to give you the time in bavarian language (may be tweaked
 
 Some help is provided with the -h command line argument.
 
-Example usage:
+### Example usage
+
+```bash
 $ python3 bavarianClock.py -pi -d ', am %d.%m'
--> "Ezzad iss grod Sechse aufd Nocht, am 14.12"
+Ezzad iss grod Sechse aufd Nocht, am 14.12
+```
